@@ -22,8 +22,6 @@ def target_function():
     y1 = point1[0][2]
     x2 = point2[0][1]
     y2 = point2[0][2]
-    
-    
     #Generate equation line
     a =((y2-y1)/(x2-x1))
     b = -1
